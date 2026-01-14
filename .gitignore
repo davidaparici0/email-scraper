@@ -1,0 +1,14 @@
+# Security
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data
+output/
+*.csv
+*.md
+
+!README.md
