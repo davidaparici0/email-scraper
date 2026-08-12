@@ -11,4 +11,4 @@ output/
 *.csv
 *.md
 
-!README.md
+!README.md.DS_Store
