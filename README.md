@@ -2,7 +2,7 @@
 
 > A Python automation tool that extracts newsletter content from IMAP servers, sanitizes HTML, and converts it into clean Markdown for LLM analysis.
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-3.14-blue?style=flat&logo=python)
 ![Dependency Manager](https://img.shields.io/badge/uv-managed-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -26,7 +26,7 @@ This script creates a secure **ETL (Extract, Transform, Load) pipeline** that:
 
 ## 🛠️ Tech Stack
 
-* **Language:** Python 3.12+
+* **Language:** Python 3.14+
 * **Libraries:** `imaplib`, `email`, `BeautifulSoup4`, `python-dotenv`
 * **Package Manager:** uv
 
@@ -34,7 +34,7 @@ This script creates a secure **ETL (Extract, Transform, Load) pipeline** that:
 
 ### Prerequisites
 
-* Python 3.12 or higher
+* Python 3.14 or higher
 * [uv](https://github.com/astral-sh/uv) installed
 * An Email App Password (if using Gmail)
 
