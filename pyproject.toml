@@ -1,7 +1,7 @@
 [project]
 name = "email-scraper"
 version = "0.1.0"
-description = "Add your description here"
+description = "Fetches one sender's emails from Gmail over IMAP and saves each as a .md file with a plain-text body."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
