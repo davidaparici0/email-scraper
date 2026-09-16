@@ -12,3 +12,4 @@ output/
 *.md
 
 !README.md
+.DS_Store
